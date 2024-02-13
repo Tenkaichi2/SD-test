@@ -17,25 +17,25 @@ PIP_PACKAGES=(
   )
 
 EXTENSIONS=(
-    "https://github.com/Mikubill/sd-webui-controlnet"
-    "https://github.com/d8ahazard/sd_dreambooth_extension"
-    "https://github.com/deforum-art/sd-webui-deforum"
-    "https://github.com/adieyal/sd-dynamic-prompts"
-    "https://github.com/ototadana/sd-face-editor"
-    "https://github.com/AlUlkesh/stable-diffusion-webui-images-browser"
-    "https://github.com/hako-mikan/sd-webui-regional-prompter"
-    "https://github.com/Coyote-A/ultimate-upscale-for-automatic1111"
-    "https://github.com/fkunn1326/openpose-editor"
-    "https://github.com/Gourieff/sd-webui-reactor"
+    #"https://github.com/Mikubill/sd-webui-controlnet"
+    #"https://github.com/d8ahazard/sd_dreambooth_extension"
+    #"https://github.com/deforum-art/sd-webui-deforum"
+    #"https://github.com/adieyal/sd-dynamic-prompts"
+    #"https://github.com/ototadana/sd-face-editor"
+    #"https://github.com/AlUlkesh/stable-diffusion-webui-images-browser"
+    #"https://github.com/hako-mikan/sd-webui-regional-prompter"
+    #"https://github.com/Coyote-A/ultimate-upscale-for-automatic1111"
+    #"https://github.com/fkunn1326/openpose-editor"
+    #"https://github.com/Gourieff/sd-webui-reactor"
 )
 
 CHECKPOINT_MODELS=(
-    "https://civitai.com/api/download/models/130072?type=Model&format=SafeTensor&size=full&fp=fp16" #Realistic Vision
+    #"https://civitai.com/api/download/models/130072?type=Model&format=SafeTensor&size=full&fp=fp16" #Realistic Vision
     #"https://civitai.com/api/download/models/11745" #ChilloutMix
     #"https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16" #Dream Shaper
-    "https://civitai.com/api/download/models/143906?type=Model&format=SafeTensor&size=pruned&fp=fp16" #Epic Realism
+    #"https://civitai.com/api/download/models/143906?type=Model&format=SafeTensor&size=pruned&fp=fp16" #Epic Realism
     #"https://civitai.com/api/download/models/46846?type=Model&format=SafeTensor&size=full&fp=fp32" #RevAnimated
-    "https://civitai.com/api/download/models/1224" #f222
+    #"https://civitai.com/api/download/models/1224" #f222
     
     
 )
