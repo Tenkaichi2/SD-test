@@ -81,6 +81,10 @@ CONTROLNET_MODELS=(
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_style-fp16.safetensors"
 )
 
+EMBEDDINGS_MODELS=(
+    "https://civitai.com/api/download/models/77169?type=Model&format=PickleTensor"
+    "https://civitai.com/api/download/models/77173?type=Model&format=PickleTensor"
+
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
 
@@ -108,6 +112,9 @@ function provisioning_start() {
     provisioning_get_models \
         "${WORKSPACE}/storage/stable_diffusion/models/esrgan" \
         "${ESRGAN_MODELS[@]}"
+    provisioning_get_models \
+        "${WORKSPACE}/storage/stable_diffusion/embeddings" \
+        "${EMBEDDINGS_MODELS[@]}"
      
     PLATFORM_FLAGS=""
     if [[ $XPU_TARGET = "CPU" ]]; then
