@@ -84,7 +84,7 @@ CONTROLNET_MODELS=(
 EMBEDDINGS_MODELS=(
     "https://civitai.com/api/download/models/77169?type=Model&format=PickleTensor"
     "https://civitai.com/api/download/models/77173?type=Model&format=PickleTensor"
-
+)
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
 
