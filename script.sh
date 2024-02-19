@@ -33,9 +33,9 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/130072?type=Model&format=SafeTensor&size=full&fp=fp16" #Realistic Vision
     #"https://civitai.com/api/download/models/11745" #ChilloutMix
     #"https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16" #Dream Shaper
-    #"https://civitai.com/api/download/models/143906?type=Model&format=SafeTensor&size=pruned&fp=fp16" #Epic Realism
+    "https://civitai.com/api/download/models/143906?type=Model&format=SafeTensor&size=pruned&fp=fp16" #Epic Realism
     #"https://civitai.com/api/download/models/46846?type=Model&format=SafeTensor&size=full&fp=fp32" #RevAnimated
-    #"https://civitai.com/api/download/models/1224" #f222
+    "https://civitai.com/api/download/models/1224" #f222
     
     
 )
