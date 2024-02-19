@@ -46,7 +46,13 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/62833" #Add details
     "https://civitai.com/api/download/models/91700" #KoreaFace
     "https://civitai.com/api/download/models/310363?type=Model&format=SafeTensor" #Dress Art
-    
+    "https://civitai.com/api/download/models/155897?type=Model&format=SafeTensor" #Cum projectile
+    "https://civitai.com/api/download/models/37826?type=Model&format=SafeTensor" #POV missionary
+    "https://civitai.com/api/download/models/34020?type=Model&format=SafeTensor&size=full&fp=fp16" # Doggystyle Side view
+    "https://civitai.com/api/download/models/204182?type=Model&format=SafeTensor" #Yoga pants
+    "https://civitai.com/api/download/models/324325?type=Model&format=SafeTensor" #Blowjob
+    "https://civitai.com/api/download/models/70587?type=Model&format=SafeTensor" #Perfect eyes
+    "https://civitai.com/api/download/models/138799?type=Model&format=SafeTensor" #Real Downblouse
     
 )
 
