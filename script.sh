@@ -53,6 +53,19 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/324325?type=Model&format=SafeTensor" #Blowjob
     "https://civitai.com/api/download/models/70587?type=Model&format=SafeTensor" #Perfect eyes
     "https://civitai.com/api/download/models/138799?type=Model&format=SafeTensor" #Real Downblouse
+    "https://civitai.com/api/download/models/145907" #High detailed eyes
+    "https://civitai.com/api/download/models/134916" #Korean
+    "https://civitai.com/api/download/models/309569?type=Model&format=SafeTensor" #Korean Big boobs
+    "https://civitai.com/api/download/models/216215" #Irish
+    "https://civitai.com/api/download/models/340608?type=Model&format=SafeTensor" #Japanese small boobs
+    "https://civitai.com/api/download/models/61391" #Perfect pussy
+    "https://civitai.com/api/download/models/53641" #Drop top
+    "https://civitai.com/api/download/models/188898" #upside down
+    "https://civitai.com/api/download/models/72282?type=Model&format=SafeTensor" #Background
+    "https://civitai.com/api/download/models/58690" #korean clothes
+    "https://civitai.com/api/download/models/76724?type=Model&format=SafeTensor" #Sexy underwear
+    "https://civitai.com/api/download/models/65674" #Sportswear
+    "https://civitai.com/api/download/models/69259" #Undress top
     
 )
 
