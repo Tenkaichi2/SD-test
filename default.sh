@@ -15,6 +15,7 @@ PIP_PACKAGES=(
 )
 
 CHECKPOINT_MODELS=(
+    #Anime
     #"https://civitai.com/api/download/models/918032?type=Model&format=SafeTensor&size=full&fp=fp16" # AniVerse Pony : https://civitai.com/models/594253/aniverse-pony-xl
     #"https://civitai.com/api/download/models/646313?type=Model&format=SafeTensor&size=pruned&fp=fp16" #AniVerse : https://civitai.com/api/download/models/646313?type=Model&format=SafeTensor&size=pruned&fp=fp16
     #"https://huggingface.co/LyliaEngine/Pony_Diffusion_V6_XL/resolve/main/ponyDiffusionV6XL_v6StartWithThisOne.safetensors" # Pony Diffusion : https://civitai.com/models/257749/pony-diffusion-v6-xl?modelVersionId=290640
@@ -39,6 +40,8 @@ LORA_MODELS=(
     #"https://civitai.com/api/download/models/856243?type=Model&format=SafeTensor" # Adjusting clothes : https://civitai.com/models/93524/adjusting-clothes?modelVersionId=856243
     #"https://civitai.com/api/download/models/619176?type=Model&format=SafeTensor" #Pillow : https://civitai.com/models/151195/pillow-humping?modelVersionId=619176
     #"https://civitai.com/api/download/models/721234?type=Model&format=SafeTensor" #Doggy : https://civitai.com/models/644741/doggystyle-dp-for-gurilamash-v2?modelVersionId=721234
+    "https://huggingface.co/DarkAngelH/Nudify_XL_Better_Bodies/resolve/main/nudify_xl_lite.safetensors" #Nudify XL: Better Bodies : https://civitai.com/models/9025/nudify-xl-better-bodies?modelVersionId=177674
+    "https://huggingface.co/DarkAngelH/Innies_Better_vulva/resolve/main/innievag%20body.safetensors" #Better Vulva : https://civitai.com/models/10364/innies-better-vulva
 )
 
 
