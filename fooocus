@@ -30,7 +30,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/129711?type=Model&format=SafeTensor" #Perfect Eyes : https://civitai.com/models/119399/concept-perfect-eyes?modelVersionId=129711
     "https://civitai.com/api/download/models/498843?type=Model&format=SafeTensor" #Real Cum : https://civitai.com/models/326320/real-cum-sdxl?modelVersionId=498843
     "https://civitai.com/api/download/models/856243?type=Model&format=SafeTensor" # Adjusting clothes : https://civitai.com/models/93524/adjusting-clothes?modelVersionId=856243
-    "https://civitai.com/api/download/models/619176?type=Model&format=SafeTensor" : #Pillow : https://civitai.com/models/151195/pillow-humping?modelVersionId=619176
+    "https://civitai.com/api/download/models/619176?type=Model&format=SafeTensor" #Pillow : https://civitai.com/models/151195/pillow-humping?modelVersionId=619176
     "https://civitai.com/api/download/models/721234?type=Model&format=SafeTensor" #Doggy : https://civitai.com/models/644741/doggystyle-dp-for-gurilamash-v2?modelVersionId=721234
 
 )
