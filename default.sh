@@ -15,14 +15,23 @@ PIP_PACKAGES=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://civitai.com/api/download/models/646313?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=80ba4ce83615265be2aee789b28f88da"
-    #"https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.ckpt"
-    #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
-    #"https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
-)
+    #"https://civitai.com/api/download/models/918032?type=Model&format=SafeTensor&size=full&fp=fp16" # AniVerse Pony : https://civitai.com/models/594253/aniverse-pony-xl
+    #"https://civitai.com/api/download/models/646313?type=Model&format=SafeTensor&size=pruned&fp=fp16" #AniVerse : https://civitai.com/api/download/models/646313?type=Model&format=SafeTensor&size=pruned&fp=fp16
+    "https://huggingface.co/LyliaEngine/Pony_Diffusion_V6_XL/resolve/main/ponyDiffusionV6XL_v6StartWithThisOne.safetensors" # Pony Diffusion : https://civitai.com/models/257749/pony-diffusion-v6-xl?modelVersionId=290640
+    "https://huggingface.co/cagliostrolab/animagine-xl-3.1/resolve/main/animagine-xl-3.1.safetensors" # Animagine : https://civitai.com/models/260267/animagine-xl-v31?modelVersionId=403131
+    #"https://civitai.com/api/download/models/531417?type=Model&format=SafeTensor&size=pruned&fp=fp16" # DucHaiten : https://civitai.com/models/376450/duchaiten-pony-xl-no-score?modelVersionId=531417
+    #"https://civitai.com/api/download/models/324524?type=Model&format=SafeTensor&size=pruned&fp=fp16" #AutismMix : https://civitai.com/models/288584/autismmix-sdxl?modelVersionId=324524
+    #"https://civitai.com/api/download/models/828380?type=Model&format=SafeTensor&size=pruned&fp=fp16" #Perfect Pony : https://civitai.com/models/439889/prefect-pony-xl?modelVersionId=828380
 
 LORA_MODELS=(
-    "https://civitai.com/api/download/models/16576&token=80ba4ce83615265be2aee789b28f88da"
+    "https://huggingface.co/KirtiKousik/detail-tweaker-XL/resolve/main/add-detail-xl.safetensors" #Detaile Tweaker : https://civitai.com/models/122359/detail-tweaker-xl?modelVersionId=135867
+    "https://huggingface.co/Danilin3300/ExpressiveH_Hentai_LoRa_Style/resolve/main/Expressive_H-000001.safetensors" #Expressive Hentai : https://civitai.com/models/341353/expressiveh-hentai-lora-style?modelVersionId=382152
+    "https://huggingface.co/imagepipeline/Hand-Detail-Lora-XL-v2.0/resolve/main/99d314e4-5e34-480a-a330-bf60b3a9d299.safetensors" #Hand Details : https://civitai.com/models/260852/hand-detail-xl-lora?modelVersionId=294259
+    "https://huggingface.co/rorito/concept-perfect-eyes/resolve/main/PerfectEyesXL.safetensors" #Perfect Eyes : https://civitai.com/models/119399/concept-perfect-eyes?modelVersionId=129711
+    "https://huggingface.co/MarkBW/realcum-xl/resolve/main/realcumSDXLv4.5.safetensors" #Real Cum : https://civitai.com/models/326320/real-cum-sdxl?modelVersionId=498843
+    #"https://civitai.com/api/download/models/856243?type=Model&format=SafeTensor" # Adjusting clothes : https://civitai.com/models/93524/adjusting-clothes?modelVersionId=856243
+    #"https://civitai.com/api/download/models/619176?type=Model&format=SafeTensor" #Pillow : https://civitai.com/models/151195/pillow-humping?modelVersionId=619176
+    #"https://civitai.com/api/download/models/721234?type=Model&format=SafeTensor" #Doggy : https://civitai.com/models/644741/doggystyle-dp-for-gurilamash-v2?modelVersionId=721234
 )
 
 
