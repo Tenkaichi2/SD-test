@@ -22,6 +22,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/531417?type=Model&format=SafeTensor&size=pruned&fp=fp16" # DucHaiten : https://civitai.com/models/376450/duchaiten-pony-xl-no-score?modelVersionId=531417
     #"https://civitai.com/api/download/models/324524?type=Model&format=SafeTensor&size=pruned&fp=fp16" #AutismMix : https://civitai.com/models/288584/autismmix-sdxl?modelVersionId=324524
     #"https://civitai.com/api/download/models/828380?type=Model&format=SafeTensor&size=pruned&fp=fp16" #Perfect Pony : https://civitai.com/models/439889/prefect-pony-xl?modelVersionId=828380
+)
 
 LORA_MODELS=(
     "https://huggingface.co/KirtiKousik/detail-tweaker-XL/resolve/main/add-detail-xl.safetensors" #Detaile Tweaker : https://civitai.com/models/122359/detail-tweaker-xl?modelVersionId=135867
