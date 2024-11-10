@@ -8,7 +8,7 @@
 
 ### Edit the following arrays to suit your workflow - values must be quoted and separated by newlines or spaces.
 
-DISK_GB_REQUIRED=30
+DISK_GB_REQUIRED=50
 
 PIP_PACKAGES=(
 
