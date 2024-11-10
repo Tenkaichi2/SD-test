@@ -44,6 +44,8 @@ LORA_MODELS=(
     #"https://civitai.com/api/download/models/721234?type=Model&format=SafeTensor" #Doggy : https://civitai.com/models/644741/doggystyle-dp-for-gurilamash-v2?modelVersionId=721234
     "https://huggingface.co/DarkAngelH/Nudify_XL_Better_Bodies/resolve/main/nudify_xl_lite.safetensors" #Nudify XL: Better Bodies : https://civitai.com/models/9025/nudify-xl-better-bodies?modelVersionId=177674
     "https://huggingface.co/DarkAngelH/Innies_Better_vulva/resolve/main/innievag%20body.safetensors" #Better Vulva : https://civitai.com/models/10364/innies-better-vulva
+    "https://huggingface.co/Artguy32/Styles-for-Pony-Diffusion-V6-XL/resolve/main/Concept%20Art%20Twilight%20Style%20SDXL_LoRA_Pony%20Diffusion%20V6%20XL.safetensors"
+    "https://huggingface.co/Artguy32/Styles-for-Pony-Diffusion-V6-XL/resolve/main/Smooth%20Anime%20Style%20LoRA%20XL.safetensors"
     
 )
 
