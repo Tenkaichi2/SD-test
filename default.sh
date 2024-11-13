@@ -18,18 +18,18 @@ CHECKPOINT_MODELS=(
     #Anime
     #"https://civitai.com/api/download/models/918032?type=Model&format=SafeTensor&size=full&fp=fp16" # AniVerse Pony : https://civitai.com/models/594253/aniverse-pony-xl
     #"https://civitai.com/api/download/models/646313?type=Model&format=SafeTensor&size=pruned&fp=fp16" #AniVerse : https://civitai.com/api/download/models/646313?type=Model&format=SafeTensor&size=pruned&fp=fp16
-    "https://huggingface.co/LyliaEngine/Pony_Diffusion_V6_XL/resolve/main/ponyDiffusionV6XL_v6StartWithThisOne.safetensors" # Pony Diffusion : https://civitai.com/models/257749/pony-diffusion-v6-xl?modelVersionId=290640
+    #"https://huggingface.co/LyliaEngine/Pony_Diffusion_V6_XL/resolve/main/ponyDiffusionV6XL_v6StartWithThisOne.safetensors" # Pony Diffusion : https://civitai.com/models/257749/pony-diffusion-v6-xl?modelVersionId=290640
     #"https://huggingface.co/cagliostrolab/animagine-xl-3.1/resolve/main/animagine-xl-3.1.safetensors" # Animagine : https://civitai.com/models/260267/animagine-xl-v31?modelVersionId=403131
     #"https://civitai.com/api/download/models/531417?type=Model&format=SafeTensor&size=pruned&fp=fp16" # DucHaiten : https://civitai.com/models/376450/duchaiten-pony-xl-no-score?modelVersionId=531417
     #"https://civitai.com/api/download/models/324524?type=Model&format=SafeTensor&size=pruned&fp=fp16" #AutismMix : https://civitai.com/models/288584/autismmix-sdxl?modelVersionId=324524
     #"https://civitai.com/api/download/models/828380?type=Model&format=SafeTensor&size=pruned&fp=fp16" #Perfect Pony : https://civitai.com/models/439889/prefect-pony-xl?modelVersionId=828380
 
     #Realistic
-    #"https://huggingface.co/SG161222/RealVisXL_V5.0/resolve/main/RealVisXL_V5.0_fp32.safetensors" #RealVis : https://civitai.com/models/139562/realvisxl-v50?modelVersionId=789646
+    "https://huggingface.co/SG161222/RealVisXL_V5.0/resolve/main/RealVisXL_V5.0_fp32.safetensors" #RealVis : https://civitai.com/models/139562/realvisxl-v50?modelVersionId=789646
     #"https://huggingface.co/yanex0/realism-engine-SDXL/resolve/main/realismEngineSDXL_v10.safetensors" #Realism Engine SDXL : https://civitai.com/models/152525/realism-engine-sdxl?modelVersionId=293240
     #"https://huggingface.co/misri/epicrealismXL_v5Ultimate/resolve/main/epicrealismXL_v5Ultimate.safetensors" #EpicRealism : https://civitai.com/models/277058/epicrealism-xl?modelVersionId=646523
     #"https://huggingface.co/Lykon/dreamshaper-xl-1-0/resolve/main/unet/diffusion_pytorch_model.fp16.safetensors" #Dreamshaper
-    "https://huggingface.co/luisrguerra/rdxl-beta/resolve/main/pony-12-real-dream.safetensors" #Real Dream SDXL : https://civitai.com/models/153568?modelVersionId=832353
+    #"https://huggingface.co/luisrguerra/rdxl-beta/resolve/main/pony-12-real-dream.safetensors" #Real Dream SDXL : https://civitai.com/models/153568?modelVersionId=832353
     #"https://huggingface.co/Justin-Choo/XXMix_9realisticSDXL/resolve/main/xxmix9realisticsdxl_testV20.safetensors" #XXMix_9realisticSDXL : https://civitai.com/models/124421/xxmix9realisticsdxl?modelVersionId=163192
 )
 
