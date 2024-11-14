@@ -30,7 +30,7 @@ CHECKPOINT_MODELS=(
     #"https://huggingface.co/yanex0/realism-engine-SDXL/resolve/main/realismEngineSDXL_v10.safetensors" #Realism Engine SDXL : https://civitai.com/models/152525/realism-engine-sdxl?modelVersionId=293240
     #"https://huggingface.co/misri/epicrealismXL_v5Ultimate/resolve/main/epicrealismXL_v5Ultimate.safetensors" #EpicRealism : https://civitai.com/models/277058/epicrealism-xl?modelVersionId=646523
     #"https://huggingface.co/Lykon/dreamshaper-xl-1-0/resolve/main/unet/diffusion_pytorch_model.fp16.safetensors" #Dreamshaper
-    #"https://huggingface.co/luisrguerra/rdxl-beta/resolve/main/pony-12-real-dream.safetensors" #Real Dream SDXL : https://civitai.com/models/153568?modelVersionId=832353
+    "https://huggingface.co/luisrguerra/rdxl-beta/resolve/main/pony-12-real-dream.safetensors" #Real Dream SDXL : https://civitai.com/models/153568?modelVersionId=832353
     #"https://huggingface.co/Justin-Choo/XXMix_9realisticSDXL/resolve/main/xxmix9realisticsdxl_testV20.safetensors" #XXMix_9realisticSDXL : https://civitai.com/models/124421/xxmix9realisticsdxl?modelVersionId=163192
 )
 
