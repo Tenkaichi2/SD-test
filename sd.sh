@@ -23,6 +23,7 @@ NODES=(
 )
 
 CHECKPOINT_MODELS=(
+    "https://huggingface.co/SG161222/Realistic_Vision_V6.0_B1_noVAE/resolve/main/Realistic_Vision_V6.0_NV_B1.safetensors"
 )
 
 CLIP_MODELS=(
@@ -37,6 +38,7 @@ VAE_MODELS=(
 )
 
 LORA_MODELS=(
+    "https://huggingface.co/GojoSensei/Add_more_details/resolve/main/more_details.safetensors"
 )
 
 ESRGAN_MODELS=(
@@ -46,6 +48,8 @@ ESRGAN_MODELS=(
 )
 
 CONTROLNET_MODELS=(
+    "https://huggingface.co/lllyasviel/sd-controlnet-openpose/resolve/main/diffusion_pytorch_model.safetensors"
+    
 )
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
