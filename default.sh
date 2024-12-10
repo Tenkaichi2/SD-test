@@ -16,9 +16,9 @@ PIP_PACKAGES=(
 
 CHECKPOINT_MODELS=(
     #Anime
-    "https://civitai.com/api/download/models/918032?type=Model&format=SafeTensor&size=full&fp=fp16" # AniVerse Pony : https://civitai.com/models/594253/aniverse-pony-xl
+    #"https://civitai.com/api/download/models/918032?type=Model&format=SafeTensor&size=full&fp=fp16" # AniVerse Pony : https://civitai.com/models/594253/aniverse-pony-xl
     #"https://civitai.com/api/download/models/646313?type=Model&format=SafeTensor&size=pruned&fp=fp16" #AniVerse : https://civitai.com/api/download/models/646313?type=Model&format=SafeTensor&size=pruned&fp=fp16
-    #"https://huggingface.co/LyliaEngine/Pony_Diffusion_V6_XL/resolve/main/ponyDiffusionV6XL_v6StartWithThisOne.safetensors" # Pony Diffusion : https://civitai.com/models/257749/pony-diffusion-v6-xl?modelVersionId=290640
+    "https://huggingface.co/LyliaEngine/Pony_Diffusion_V6_XL/resolve/main/ponyDiffusionV6XL_v6StartWithThisOne.safetensors" # Pony Diffusion : https://civitai.com/models/257749/pony-diffusion-v6-xl?modelVersionId=290640
     #"https://huggingface.co/cagliostrolab/animagine-xl-3.1/resolve/main/animagine-xl-3.1.safetensors" # Animagine : https://civitai.com/models/260267/animagine-xl-v31?modelVersionId=403131
     #"https://civitai.com/api/download/models/531417?type=Model&format=SafeTensor&size=pruned&fp=fp16" # DucHaiten : https://civitai.com/models/376450/duchaiten-pony-xl-no-score?modelVersionId=531417
     #"https://civitai.com/api/download/models/324524?type=Model&format=SafeTensor&size=pruned&fp=fp16" #AutismMix : https://civitai.com/models/288584/autismmix-sdxl?modelVersionId=324524
