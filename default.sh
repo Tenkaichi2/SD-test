@@ -51,6 +51,8 @@ LORA_MODELS=(
     "https://huggingface.co/DarkAngelH/Innies_Better_vulva/resolve/main/innievag%20body.safetensors" #Better Vulva : https://civitai.com/models/10364/innies-better-vulva
     "https://huggingface.co/Artguy32/Styles-for-Pony-Diffusion-V6-XL/resolve/main/Concept%20Art%20Twilight%20Style%20SDXL_LoRA_Pony%20Diffusion%20V6%20XL.safetensors"
     "https://huggingface.co/Artguy32/Styles-for-Pony-Diffusion-V6-XL/resolve/main/Smooth%20Anime%20Style%20LoRA%20XL.safetensors"
+    "https://huggingface.co/LarryAIDraw/nobrav1_SDXL/resolve/main/nobrav1_SDXL.safetensors"
+    "https://huggingface.co/TheImposterImposters/betterfacesculturessdxl-better_faces_pony_strong/resolve/main/face_strong_sevenof9.safetensors"
     
 )
 
