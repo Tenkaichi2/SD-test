@@ -32,6 +32,7 @@ CHECKPOINT_MODELS=(
     #"https://huggingface.co/Lykon/dreamshaper-xl-1-0/resolve/main/unet/diffusion_pytorch_model.fp16.safetensors" #Dreamshaper
     #"https://huggingface.co/luisrguerra/rdxl-beta/resolve/main/pony-12-real-dream.safetensors" #Real Dream SDXL : https://civitai.com/models/153568?modelVersionId=832353
     #"https://huggingface.co/Justin-Choo/XXMix_9realisticSDXL/resolve/main/xxmix9realisticsdxl_testV20.safetensors" #XXMix_9realisticSDXL : https://civitai.com/models/124421/xxmix9realisticsdxl?modelVersionId=163192
+    "https://prompthero.com/ai-models/animerge-pony-xl-download/v2-0/file/838e3b16-d25d-4713-b8fe-9a430585c5d3/download" #Animerge pony xl
 )
 
 LORA_MODELS=(
