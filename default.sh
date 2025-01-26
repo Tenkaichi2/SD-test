@@ -8,7 +8,7 @@
 
 ### Edit the following arrays to suit your workflow - values must be quoted and separated by newlines or spaces.
 
-DISK_GB_REQUIRED=50
+DISK_GB_REQUIRED=30
 
 PIP_PACKAGES=(
 
@@ -36,7 +36,6 @@ CHECKPOINT_MODELS=(
 
     #Refiner
     #"https://huggingface.co/ferdyshampo/OnlyForNsfw118/resolve/main/onlyfornsfw118_v20.safetensors"
-
 )
 
 LORA_MODELS=(
@@ -54,7 +53,6 @@ LORA_MODELS=(
     "https://huggingface.co/Artguy32/Styles-for-Pony-Diffusion-V6-XL/resolve/main/Smooth%20Anime%20Style%20LoRA%20XL.safetensors"
     "https://huggingface.co/LarryAIDraw/nobrav1_SDXL/resolve/main/nobrav1_SDXL.safetensors"
     "https://huggingface.co/TheImposterImposters/betterfacesculturessdxl-better_faces_pony_strong/resolve/main/face_strong_sevenof9.safetensors"
-    
 )
 
 
@@ -132,5 +130,4 @@ function provisioning_download() {
         wget -qnc --content-disposition --show-progress -e dotbytes="${3:-4M}" -P "$2" "$1"
     fi
 }
-
 provisioning_start
