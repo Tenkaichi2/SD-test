@@ -8,7 +8,7 @@
 
 ### Edit the following arrays to suit your workflow - values must be quoted and separated by newlines or spaces.
 
-DISK_GB_REQUIRED=30
+DISK_GB_REQUIRED=60
 
 PIP_PACKAGES=(
 
@@ -27,7 +27,7 @@ CHECKPOINT_MODELS=(
     #Realistic
     "https://huggingface.co/cyberdelia/CyberRealisticPony/resolve/main/CyberRealisticPony_V7a.safetensors" #CyberReal Pony
     #"https://huggingface.co/RunDiffusion/Juggernaut-XL-v9/resolve/main/Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors" #Juggernaut XL
-    #"https://huggingface.co/SG161222/RealVisXL_V5.0/resolve/main/RealVisXL_V5.0_fp32.safetensors" #RealVis : https://civitai.com/models/139562/realvisxl-v50?modelVersionId=789646
+    "https://huggingface.co/SG161222/RealVisXL_V5.0/resolve/main/RealVisXL_V5.0_fp32.safetensors" #RealVis : https://civitai.com/models/139562/realvisxl-v50?modelVersionId=789646
     #"https://huggingface.co/yanex0/realism-engine-SDXL/resolve/main/realismEngineSDXL_v10.safetensors" #Realism Engine SDXL : https://civitai.com/models/152525/realism-engine-sdxl?modelVersionId=293240
     #"https://huggingface.co/misri/epicrealismXL_v5Ultimate/resolve/main/epicrealismXL_v5Ultimate.safetensors" #EpicRealism : https://civitai.com/models/277058/epicrealism-xl?modelVersionId=646523
     #"https://huggingface.co/Lykon/dreamshaper-xl-1-0/resolve/main/unet/diffusion_pytorch_model.fp16.safetensors" #Dreamshaper
